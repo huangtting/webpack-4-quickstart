@@ -1,5 +1,6 @@
 # webpack-4-quickstart
 > Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
+
 > Webpack 4 的简介，从0到Production Mode
 
 [![Donate](https://img.shields.io/badge/donate-patreon-orange.svg)](https://www.patreon.com/valentinogagliardi)
@@ -19,7 +20,7 @@ Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@v
 
 This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
-## 博客写的很好，总结一下
+## 博客写的挺好，总结一下
 Webpack4提倡零配置，所以约定默认的入口文件是./src/index.js，约定默认的出口文件是./dist/main.js.
 
 Webpack4提供了两种mode，在package.json中添加如下代码：
@@ -105,7 +106,7 @@ module.exports = {
 };
 
 ```
-其实只是一个小入门，各种各样的插件就够喝一壶了。
+其实只是一个小入门，各种各样的插件就够喝一壶了。暂时先这样，以后用到再改。
 
 
 
